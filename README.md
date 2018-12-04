@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 4,2018
 
 ### Student Name:  
-(First and Last Name)
+Cecilia Kauffman
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we edited a pre-made application with jQuery so that when the words are clicked they slid open to reveal the information.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/ceciliakauffman/lesson7_jquery.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned how important the dollar sign is to jQuery.
+2. I learned that sometimes the code doesn't translate correctly if it is copy and pasted.
+3. I learned how much jQuery can make applications.
